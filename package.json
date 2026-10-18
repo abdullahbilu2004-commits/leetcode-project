@@ -1,0 +1,28 @@
+{
+  "name": "leetcode-practice",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "mongoose": "latest",
+    "bcryptjs": "latest",
+    "jose": "latest",
+    "zod": "latest",
+    "lucide-react": "latest",
+    "react-hot-toast": "latest",
+    "@monaco-editor/react": "latest",
+    "sanitize-html": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
+    "postcss": "latest"
+  }
+}
